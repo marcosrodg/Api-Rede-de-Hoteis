@@ -1,0 +1,4 @@
+__pycache__
+.venv
+banco.db
+/__init__.py
